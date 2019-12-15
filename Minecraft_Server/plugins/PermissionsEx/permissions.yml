@@ -1,0 +1,67 @@
+groups:
+  default:
+    options:
+      default: true
+    permissions:
+    - essentials.tpdeny
+    - essentials.tpaccept
+    - essentials.tpacancel
+    - essentials.tpa
+    - essentials.tp
+    - essentials.suicide
+    - essentials.sethome.bed
+    - essentials.sethome
+    - essentials.pay
+    - essentials.msg.multiple
+    - essentials.msg
+    - essentials.me
+    - essentials.mail.sendall
+    - essentials.mail.send
+    - essentials.mail
+    - essentials.home.bed
+    - essentials.home.compass
+    - essentials.delhome
+    - essentials.balance
+    - essentials.back.ondeath
+    - essentials.back
+    - essentials.afk
+    - '''essentials.afk'''
+    - modifyworld.*
+    worlds:
+      world:
+        permissions:
+        - multiverse.portal.access.*
+        - multiverse.portals.access.*
+schema-version: 1
+users:
+  7ff98b86-8329-4be5-821e-c20b42545f40:
+    options:
+      name: Bum_Homeless
+  7434f721-5727-45f0-857a-aa7773bdb6d4:
+    options:
+      name: Nianththegreat
+    group:
+    - default
+    worlds:
+      '31622400':
+        group:
+        - default
+  f6bf3fa7-f8f3-46a9-a16d-73a75435ebfb:
+    options:
+      name: 101Storie
+  32d30586-5ca9-4d49-a7ff-da715fd14a44:
+    options:
+      name: LordAwesome98
+    worlds:
+      '31622400':
+        group:
+        - default
+  1afcd0de-f679-48ea-843d-762aebb1117b:
+    group:
+    - default
+    options:
+      name: AlphaRex001
+    worlds:
+      '300000000':
+        group:
+        - default

@@ -1,0 +1,91 @@
+portals:
+  survival_portal:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: 101Storie
+    location: -182.0,64.0,275.0:-182.0,66.0,278.0
+    world: world
+    destination: survival
+  toRedstone:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Bum_Homeless
+    location: -182.0,64.0,280.0:-182.0,66.0,283.0
+    world: world
+    destination: Redstone
+  lobby_portal:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: 101Storie
+    location: 44.0,69.0,-76.0:46.0,71.0,-76.0
+    world: survival
+    destination: world
+  uncc_portal:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: 101Storie
+    location: -187.0,64.0,284.0:-184.0,66.0,284.0
+    world: world
+    destination: UNCC_survival
+  uncc_portal2:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: 101Storie
+    location: -187.0,64.0,284.0:-184.0,66.0,284.0
+    world: world
+    destination: UNCC_survival
+  newportal:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Bum_Homeless
+    location: 47.0,4.0,25.0:49.0,6.0,25.0
+    world: Redstone
+    destination: world
+  lobby2creative:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Bum_Homeless
+    location: -187.0,64.0,274.0:-184.0,66.0,274.0
+    world: world
+    destination: creative_world
+  creative2lobby:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Bum_Homeless
+    location: -82.0,4.0,-9.0:-79.0,6.0,-9.0
+    world: creative_world
+    destination: world
+  UNCC_PortalToLobby:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: 101Storie
+    location: 329.0,76.0,90.0:329.0,78.0,92.0
+    world: UNCC_survival
+    destination: world

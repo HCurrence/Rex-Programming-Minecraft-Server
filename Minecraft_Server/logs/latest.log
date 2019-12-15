@@ -1,0 +1,59 @@
+[09:33:23] [User Authenticator #135/INFO]: UUID of player 101Storie is f6bf3fa7-f8f3-46a9-a16d-73a75435ebfb
+[09:33:24] [Server thread/INFO]: 101Storie[/104.186.23.225:50156] logged in with entity id 378557 at ([UNCC_survival]277.51291505388946, 68.0, 105.28467352813621)
+[10:04:52] [Server thread/INFO]: 101Storie issued server command: /home
+[10:06:58] [Server thread/INFO]: 101Storie issued server command: /back
+[10:08:19] [Server thread/INFO]: 101Storie issued server command: /back
+[10:08:31] [Server thread/INFO]: 101Storie issued server command: /back
+[10:12:01] [Server thread/INFO]: 101Storie issued server command: /home
+[10:21:35] [Server thread/INFO]: 101Storie lost connection: Timed out
+[10:21:35] [Server thread/INFO]: 101Storie left the game
+[10:27:15] [User Authenticator #136/INFO]: UUID of player 101Storie is f6bf3fa7-f8f3-46a9-a16d-73a75435ebfb
+[10:27:16] [Server thread/INFO]: 101Storie[/104.186.23.225:49811] logged in with entity id 381395 at ([UNCC_survival]364.79715668525256, 69.0, 172.6858138804386)
+[10:28:00] [Server thread/INFO]: 101Storie issued server command: /home
+[10:28:31] [Server thread/INFO]: 101Storie issued server command: /back
+[10:43:36] [Server thread/INFO]: 101Storie issued server command: /home
+[10:44:11] [Server thread/INFO]: 101Storie issued server command: /back
+[10:44:41] [Server thread/INFO]: 101Storie issued server command: /back
+[10:44:57] [Server thread/INFO]: 101Storie issued server command: /back
+[10:46:45] [Server thread/INFO]: 101Storie issued server command: /back
+[10:48:44] [Server thread/INFO]: 101Storie issued server command: /back
+[10:49:04] [Server thread/INFO]: 101Storie issued server command: /back
+[10:49:37] [Server thread/INFO]: 101Storie issued server command: /back
+[10:51:12] [Server thread/INFO]: 101Storie was impaled by Drowned
+[10:51:17] [Server thread/INFO]: 101Storie issued server command: /back
+[10:53:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5157ms or 103 ticks behind
+[10:56:56] [Server thread/INFO]: 101Storie drowned
+[10:57:03] [Server thread/INFO]: 101Storie issued server command: /back
+[10:57:33] [Server thread/INFO]: 101Storie drowned
+[10:57:39] [Server thread/INFO]: 101Storie issued server command: /back
+[10:59:16] [Server thread/INFO]: 101Storie issued server command: /back
+[11:01:11] [Server thread/INFO]: 101Storie issued server command: /back
+[11:01:27] [Server thread/INFO]: 101Storie issued server command: /back
+[11:04:51] [Server thread/INFO]: 101Storie issued server command: /back
+[11:10:57] [Server thread/INFO]: 101Storie issued server command: /back
+[11:12:23] [Server thread/INFO]: 101Storie issued server command: /back
+[11:21:23] [Server thread/INFO]: 101Storie issued server command: /time set day
+[11:25:50] [Server thread/INFO]: 101Storie issued server command: /back
+[11:32:51] [Server thread/INFO]: 101Storie issued server command: /home
+[11:41:27] [Server thread/INFO]: 101Storie issued server command: /mvtp 101Storie survival
+[11:41:49] [Server thread/INFO]: 101Storie issued server command: //tool
+[11:41:52] [Server thread/INFO]: 101Storie issued server command: //wand
+[11:44:10] [Server thread/INFO]: 101Storie issued server command: //copy
+[11:44:22] [Server thread/INFO]: 101Storie issued server command: /mvtp 101Storie UNCC_survival
+[11:44:30] [Server thread/INFO]: 101Storie issued server command: /home
+[11:45:17] [Server thread/INFO]: 101Storie issued server command: //paste
+[11:46:04] [Server thread/INFO]: 101Storie issued server command: //undo
+[11:47:00] [Server thread/INFO]: 101Storie issued server command: //paste
+[11:47:08] [Server thread/INFO]: 101Storie issued server command: //undo
+[11:47:17] [Server thread/INFO]: 101Storie issued server command: //paste
+[11:48:05] [Server thread/INFO]: 101Storie issued server command: //undo
+[11:48:15] [Server thread/INFO]: 101Storie issued server command: /mvtp 101Storie survival
+[11:48:36] [Server thread/WARN]: 101Storie moved too quickly! 6.831241865825383,-7.293985205131477,2.0588262819973835
+[11:48:53] [Server thread/INFO]: 101Storie issued server command: //copy
+[11:48:57] [Server thread/INFO]: 101Storie issued server command: /back
+[11:49:31] [Server thread/INFO]: 101Storie issued server command: //paste
+[11:49:52] [Server thread/INFO]: 101Storie issued server command: //undo
+[11:50:09] [Server thread/INFO]: 101Storie issued server command: //paste
+[11:55:03] [Server thread/INFO]: 101Storie issued server command: /home
+[11:55:08] [Server thread/INFO]: 101Storie lost connection: Disconnected
+[11:55:08] [Server thread/INFO]: 101Storie left the game
