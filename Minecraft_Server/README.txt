@@ -1,7 +1,7 @@
 This Minecraft Server was originally created by Haley Currence for Rex Programming ECR.
 
-Minecraft Version: 1.14.2
-Mod Loader: Spigot 1.14.4
+Minecraft Version: 1.15
+Mod Loader: Spigot 1.15
 Current Plugins:
 - EssentialsX
 - PermissionsEx
@@ -20,4 +20,10 @@ Worlds:
 - redstone_class: Creative world created to teach Minecraft Redstone logic (circuit logic) at Rex Programming
 - Redstone: 
 
-Use ./start.sh to start the server.
+To start the server in Linux:
+- chmod +x start.sh
+- ./start.sh
+
+To start the server on Mac/Windows:
+- Make start.sh executable
+- Run start.sh
